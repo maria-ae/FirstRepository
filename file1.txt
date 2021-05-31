@@ -1,5 +1,4 @@
 Hello13245
 Good bye!
-another line from user1
+line from user2
 Hello again
-from user1
